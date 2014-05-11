@@ -9,6 +9,7 @@
 #import "MBYRViewController.h"
 
 @interface MBYRViewController ()
+@property (weak, nonatomic) IBOutlet UILabel *timerLabel;
 
 @end
 
